@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "MSI",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus4.actions.githubusercontent.com/2uqHK8vfLYsQwl2AS4QHRpqEEfi82co3Aja1we19jqqyDVOnob/",
+  "gitHubUrl": "https://github.com/fcampoa/almademalta",
+  "workFolder": "_work"
+}
